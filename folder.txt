@@ -1,0 +1,1 @@
+en vitejs los archivos para nombrar componentes de react si o si deben terminar con .jsx
